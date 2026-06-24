@@ -110,7 +110,7 @@ cd First_Allwyn_Analysys
 pip install pandas matplotlib
 
 # 3. Open the notebook
-jupyter notebook main.ipynb
+jupyter notebook analysis.ipynb
 ```
 
 All 10 charts will render inside the notebook automatically.
